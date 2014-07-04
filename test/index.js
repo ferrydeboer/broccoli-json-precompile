@@ -1,5 +1,4 @@
 var JsonPrecompiler = require('../index');
-var broccoli = require('broccoli');
 var expect = require('chai').expect;
 
 describe('broccoli-json-precompile', function() {
